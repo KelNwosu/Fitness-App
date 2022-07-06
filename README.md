@@ -1,3 +1,18 @@
+Fitness Application
+
+This was built in React and styled using Material UI. Utilized the ExerciseDB API to access the workouts. 
+Some screenshots are provided below:
+
+
+
+Link to the live website: https://kelechi-fitness.netlify.app/
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
